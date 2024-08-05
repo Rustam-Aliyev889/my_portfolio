@@ -2837,9 +2837,9 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background:#fafafa;
+		background:#989898;
 		border-top: 0;
-		color: #4a5bca /*#c0c0c0*/;
+		color: #fafafa /*#c0c0c0*/;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
 	}
